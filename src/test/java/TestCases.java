@@ -35,7 +35,8 @@ public class TestCases extends BaseMethods {
         homePageBeforeLogIn.click(homePageBeforeLogIn.loginButton);
         loginPage = new LoginPage(driver);
         logger.info("Yönlendirilen sayfa : " + driver.getTitle());
-        loginPage.logIn("guneylokman@gmail.com", "abcd1234");
+        loginPage.logIn("thisisafakemail@gmail.com", "*********");
+        // password is hidden for security reasons. Use your own credentials while running the test.
 
     }
 
