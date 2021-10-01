@@ -67,3 +67,10 @@
 2021-10-01 10:21:02 INFO  ProductsPage:49 - Rastgele seçilen ürün: NUR BİLEN YAVUZER X LC WAIKIKI YÜKSEK BEL CEP DETAYLI DAR PAÇA KADIN PANTOLON
 199,99 TL
 (2)
+2021-10-01 10:36:23 INFO  TestCases:12 - Test başlatıldı.
+2021-10-01 10:36:35 INFO  TestCases:33 - Yönlendirilen sayfa : Üye Girişi - LC Waikiki
+2021-10-01 10:36:49 INFO  TestCases:52 -  'pantolan'  arandı! İlgili ürünler listeleniyor...
+2021-10-01 10:36:49 INFO  TestCases:53 - Yönlendirilen sayfa Pantolan - LC Waikiki
+2021-10-01 10:36:49 INFO  TestCases:63 - Sayfa sonuna scroll edildi
+2021-10-01 10:36:54 INFO  TestCases:67 - Daha Fazla ürün listeleniyor...
+2021-10-01 10:37:00 INFO  ProductsPage:49 - Rastgele seçilen ürün: 
