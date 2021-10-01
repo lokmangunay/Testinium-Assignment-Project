@@ -5,11 +5,10 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
 import java.util.List;
 import java.util.Random;
 
-public class ProductsPage extends BasePage{
+public class ProductsPage extends BasePage {
     final static Logger logger = Logger.getLogger(ProductsPage.class);
 
 
@@ -20,9 +19,9 @@ public class ProductsPage extends BasePage{
         super(driver);
     }
 
-    private By seeMoreProductLocator= By.xpath("//a[@class='lazy-load-button']");
+    private By seeMoreProductLocator = By.xpath("//a[@class='lazy-load-button']");
 
-    public void seeMoreProduct(){
+    public void seeMoreProduct() {
         click(seeMoreProductLocator);
     }
 
@@ -39,21 +38,19 @@ public class ProductsPage extends BasePage{
         Thread.sleep(3000);
 
         Random rand = new Random();
-        int randomProductIndex= rand.nextInt(getAll().size());
+        int randomProductIndex = rand.nextInt(getAll().size());
 
 
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        WebElement randomlySelectedProduct = getAll().get(randomProductIndex);
 
-       JavascriptExecutor js = (JavascriptExecutor) driver;
-         WebElement randomlySelectedProduct = getAll().get(randomProductIndex);
+        js.executeScript("arguments[0].scrollIntoView(false);", randomlySelectedProduct);
 
-        logger.info("Rastgele seçilen ürün: " + randomlySelectedProduct.getText());
-//
-    js.executeScript("arguments[0].scrollIntoView(true);", randomlySelectedProduct);
+        logger.info("Rastgele ürün seçildi. " + randomlySelectedProduct.getText());
 
         Thread.sleep(4000);
 
         randomlySelectedProduct.click();
-
 
     }
 }

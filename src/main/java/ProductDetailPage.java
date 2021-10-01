@@ -1,7 +1,10 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 
-public class ProductDetailPage extends BasePage{
+import java.util.List;
+
+public class ProductDetailPage extends BasePage {
 
     public ProductDetailPage() {
     }
@@ -11,20 +14,21 @@ public class ProductDetailPage extends BasePage{
     }
 
     private By addToCartButton = By.xpath("//a[@id='pd_add_to_cart']");
-    private By selectSizeOfProduct= By.xpath("//*[@id=\"option-size\"]/a[1]");
-    private By  productPriceLocator =By.xpath("//*[@class='price']");
-    private By goToCartLocator=By.xpath("//*[contains(text(),'Sepetim')]");
-    public void addToCart(){
+    private By selectSizeOfProduct = By.xpath("//*[@id=\"option-size\"]/a[1]");
+    private By goToCartLocator = By.xpath("//*[contains(text(),'Sepetim')]");
+    private List<WebElement> productPriceList = driver.findElements(By.xpath("//*[@class='price']"));
+
+    public void addToCart() {
         click(selectSizeOfProduct);
         click(addToCartButton);
     }
 
-    public String getProductPriceFromProductDetailPage(){
-        String productPrice=driver.findElement(productPriceLocator).getText();
+    public String getProductPriceFromProductDetailPage() {
+        String productPrice = productPriceList.get(1).getText();
         return productPrice;
     }
 
-    public void goToCart(){
+    public void goToCart() {
         click(goToCartLocator);
     }
 }

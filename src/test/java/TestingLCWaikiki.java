@@ -25,8 +25,8 @@ public class TestingLCWaikiki extends TestCases {
         isCartEmpty();
     }
 
-//    @AfterAll
-//    public void terminateTheTest() {
-//        tearDown();
-//    }
+    @AfterAll
+    public void terminateTheTest() {
+        tearDown();
+    }
 }
