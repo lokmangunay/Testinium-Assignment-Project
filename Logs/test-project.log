@@ -1,0 +1,69 @@
+2021-10-01 09:28:03 INFO  TestCases:12 - Test başlatıldı.
+2021-10-01 09:28:14 INFO  TestCases:33 - Yönlendirilen sayfa : Üye Girişi - LC Waikiki
+2021-10-01 09:28:40 INFO  TestCases:115 - Test tamamlandı.
+2021-10-01 09:37:59 INFO  TestCases:12 - Test başlatıldı.
+2021-10-01 09:38:10 INFO  TestCases:33 - Yönlendirilen sayfa : Üye Girişi - LC Waikiki
+2021-10-01 09:38:23 INFO  TestCases:62 - Sayfa sonuna scroll edildi
+2021-10-01 09:38:28 INFO  TestCases:66 - Daha Fazla ürün listeleniyor...
+2021-10-01 09:38:40 INFO  TestCases:118 - Test tamamlandı.
+2021-10-01 09:38:58 INFO  TestCases:12 - Test başlatıldı.
+2021-10-01 09:39:09 INFO  TestCases:33 - Yönlendirilen sayfa : Üye Girişi - LC Waikiki
+2021-10-01 09:39:22 INFO  TestCases:62 - Sayfa sonuna scroll edildi
+2021-10-01 09:39:27 INFO  TestCases:66 - Daha Fazla ürün listeleniyor...
+2021-10-01 09:39:38 INFO  TestCases:118 - Test tamamlandı.
+2021-10-01 09:41:50 INFO  TestCases:12 - Test başlatıldı.
+2021-10-01 09:42:01 INFO  TestCases:33 - Yönlendirilen sayfa : Üye Girişi - LC Waikiki
+2021-10-01 09:42:13 INFO  TestCases:62 - Sayfa sonuna scroll edildi
+2021-10-01 09:42:18 INFO  TestCases:66 - Daha Fazla ürün listeleniyor...
+2021-10-01 09:42:25 INFO  ProductsPage:49 - Rastgele seçilen ürün: 
+2021-10-01 09:42:30 INFO  TestCases:118 - Test tamamlandı.
+2021-10-01 09:55:13 INFO  TestCases:12 - Test başlatıldı.
+2021-10-01 09:55:34 INFO  TestCases:33 - Yönlendirilen sayfa : Üye Girişi - LC Waikiki
+2021-10-01 09:55:48 INFO  TestCases:52 -  'pantolan'  arandı! İlgili ürünler listeleniyor...
+2021-10-01 09:55:48 INFO  TestCases:53 - Yönlendirilen sayfa Pantolan - LC Waikiki
+2021-10-01 09:55:48 INFO  TestCases:63 - Sayfa sonuna scroll edildi
+2021-10-01 09:55:53 INFO  TestCases:67 - Daha Fazla ürün listeleniyor...
+2021-10-01 09:55:59 INFO  ProductsPage:49 - Rastgele seçilen ürün: 
+2021-10-01 09:58:23 INFO  TestCases:12 - Test başlatıldı.
+2021-10-01 09:58:34 INFO  TestCases:33 - Yönlendirilen sayfa : Üye Girişi - LC Waikiki
+2021-10-01 09:58:47 INFO  TestCases:52 -  'pantolan'  arandı! İlgili ürünler listeleniyor...
+2021-10-01 09:58:47 INFO  TestCases:53 - Yönlendirilen sayfa Pantolan - LC Waikiki
+2021-10-01 09:58:47 INFO  TestCases:63 - Sayfa sonuna scroll edildi
+2021-10-01 09:58:52 INFO  TestCases:67 - Daha Fazla ürün listeleniyor...
+2021-10-01 09:58:58 INFO  ProductsPage:49 - Rastgele seçilen ürün: Bisiklet Yaka Uzun Kollu Baskılı Erkek Bebek Sweatshirt ve Pantolon 2'li Takım
+119,99 TL
+(5)
+2021-10-01 10:05:08 INFO  TestCases:12 - Test başlatıldı.
+2021-10-01 10:05:21 INFO  TestCases:33 - Yönlendirilen sayfa : Üye Girişi - LC Waikiki
+2021-10-01 10:05:33 INFO  TestCases:52 -  'pantolan'  arandı! İlgili ürünler listeleniyor...
+2021-10-01 10:05:33 INFO  TestCases:53 - Yönlendirilen sayfa Pantolan - LC Waikiki
+2021-10-01 10:05:33 INFO  TestCases:63 - Sayfa sonuna scroll edildi
+2021-10-01 10:05:38 INFO  TestCases:67 - Daha Fazla ürün listeleniyor...
+2021-10-01 10:05:44 INFO  ProductsPage:49 - Rastgele seçilen ürün: 
+2021-10-01 10:08:08 INFO  TestCases:12 - Test başlatıldı.
+2021-10-01 10:08:21 INFO  TestCases:33 - Yönlendirilen sayfa : Üye Girişi - LC Waikiki
+2021-10-01 10:08:34 INFO  TestCases:52 -  'pantolan'  arandı! İlgili ürünler listeleniyor...
+2021-10-01 10:08:34 INFO  TestCases:53 - Yönlendirilen sayfa Pantolan - LC Waikiki
+2021-10-01 10:08:34 INFO  TestCases:63 - Sayfa sonuna scroll edildi
+2021-10-01 10:08:39 INFO  TestCases:67 - Daha Fazla ürün listeleniyor...
+2021-10-01 10:08:45 INFO  ProductsPage:49 - Rastgele seçilen ürün: 
+2021-10-01 10:11:19 INFO  TestCases:12 - Test başlatıldı.
+2021-10-01 10:11:33 INFO  TestCases:33 - Yönlendirilen sayfa : Üye Girişi - LC Waikiki
+2021-10-01 10:11:47 INFO  TestCases:52 -  'pantolan'  arandı! İlgili ürünler listeleniyor...
+2021-10-01 10:11:47 INFO  TestCases:53 - Yönlendirilen sayfa Pantolan - LC Waikiki
+2021-10-01 10:11:47 INFO  TestCases:63 - Sayfa sonuna scroll edildi
+2021-10-01 10:11:51 INFO  TestCases:67 - Daha Fazla ürün listeleniyor...
+2021-10-01 10:15:04 INFO  ProductsPage:49 - Rastgele seçilen ürün: Bisiklet Yaka Basic Kadife Kız Bebek Salopet
+99,99 TL
+(6)
+2021-10-01 10:17:17 INFO  TestCases:82 - Ürün Sepete Eklendi!
+2021-10-01 10:17:20 INFO  TestCases:98 - Ürün adedi 1 artırılıyor...
+2021-10-01 10:19:46 INFO  TestCases:12 - Test başlatıldı.
+2021-10-01 10:20:05 INFO  TestCases:33 - Yönlendirilen sayfa : Üye Girişi - LC Waikiki
+2021-10-01 10:20:18 INFO  TestCases:52 -  'pantolan'  arandı! İlgili ürünler listeleniyor...
+2021-10-01 10:20:18 INFO  TestCases:53 - Yönlendirilen sayfa Pantolan - LC Waikiki
+2021-10-01 10:20:19 INFO  TestCases:63 - Sayfa sonuna scroll edildi
+2021-10-01 10:20:25 INFO  TestCases:67 - Daha Fazla ürün listeleniyor...
+2021-10-01 10:21:02 INFO  ProductsPage:49 - Rastgele seçilen ürün: NUR BİLEN YAVUZER X LC WAIKIKI YÜKSEK BEL CEP DETAYLI DAR PAÇA KADIN PANTOLON
+199,99 TL
+(2)
