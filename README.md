@@ -1,5 +1,5 @@
 # Testinium-Assignment-Project
-In this project, an E-Commerse website is tested. 
+In this project, an E-Commerce website is tested. 
 
 Project is written as Maven Project in Java Programming Language.
 Selenium, JUnit and Log4J libraries are also used.
